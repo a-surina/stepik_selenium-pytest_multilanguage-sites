@@ -1,1 +1,7 @@
-# stepik_selenium-pytest_multilanguage-sites
+## Stepik: курс Автоматизация тестирования с помощью Selenium и Python
+### Peer-review Homework 3.6
+Автотесты для добавления товара в корзину с учётом параметризации языка страницы
+### Команда для запуска
+```` 
+pytest --language=es test_items.py
+````
